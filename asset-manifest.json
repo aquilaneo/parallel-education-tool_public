@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/parallel-education-tool_public/static/css/main.2d3f69cb.chunk.css",
-    "main.js": "/parallel-education-tool_public/static/js/main.bb24ac33.chunk.js",
-    "main.js.map": "/parallel-education-tool_public/static/js/main.bb24ac33.chunk.js.map",
+    "main.js": "/parallel-education-tool_public/static/js/main.17c48aad.chunk.js",
+    "main.js.map": "/parallel-education-tool_public/static/js/main.17c48aad.chunk.js.map",
     "runtime-main.js": "/parallel-education-tool_public/static/js/runtime-main.a8f28c56.js",
     "runtime-main.js.map": "/parallel-education-tool_public/static/js/runtime-main.a8f28c56.js.map",
     "static/js/2.0e861e66.chunk.js": "/parallel-education-tool_public/static/js/2.0e861e66.chunk.js",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.a8f28c56.js",
     "static/js/2.0e861e66.chunk.js",
     "static/css/main.2d3f69cb.chunk.css",
-    "static/js/main.bb24ac33.chunk.js"
+    "static/js/main.17c48aad.chunk.js"
   ]
 }
